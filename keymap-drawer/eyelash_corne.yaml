@@ -21,7 +21,7 @@ layers:
   - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
   - G
   - $$mdi:arrow-left-bold$$
-  - AC NEXT KEYBOARD LAYOUT SELECT
+  - F16
   - $$mdi:arrow-right-bold$$
   - H
   - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
